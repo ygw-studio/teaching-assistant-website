@@ -1,0 +1,8 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+httpx>=0.28,<1
+python-dotenv>=1.0,<2
+jupyter-client>=8.6,<9
+ipykernel>=6.29,<7
+matplotlib>=3.9,<4
+cryptography>=44,<47
